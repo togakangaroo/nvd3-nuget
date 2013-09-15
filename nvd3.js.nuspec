@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>nvd3.js</id>
-    <version>0.0.1.1</version>
+    <version>1.1.10-beta7</version>
     <title>nvd3</title>
     <authors>https://github.com/novus/nvd3</authors>
     <owners>George Mauer</owners>
@@ -13,7 +13,7 @@
     <summary>This project is an attempt to build re-usable charts and chart components for d3.js without taking away the power that d3.js gives you. This is a very young collection of components, with the goal of keeping these components very customizeable, staying away from your standard cookie cutter solutions.</summary>
     <tags>utility charting javascript visualization</tags>
     <dependencies>
-      <dependency id="d3" version="2.10.2" />
+      <dependency id="d3" version="3.1.5" />
     </dependencies>
   </metadata>
 </package>
