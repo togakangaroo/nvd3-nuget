@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>nvd3.js</id>
-    <version>1.1.10-beta7</version>
+    <version>1.1.15</version>
     <title>nvd3</title>
     <authors>https://github.com/novus/nvd3</authors>
     <owners>George Mauer</owners>
